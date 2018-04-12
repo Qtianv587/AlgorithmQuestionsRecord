@@ -1,0 +1,6 @@
+参考网站：http://www.hawstein.com/posts/dp-novice-to-advanced.html
+还有leetcode里面的discuss
+
+leetcode easy题目53题：
+
+寻找子问题的时候，不妨强行令序列中的每一个数作为子序列的最后一个数，然后从所有子序列的值中找到最优解；
